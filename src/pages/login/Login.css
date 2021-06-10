@@ -1,0 +1,25 @@
+.login_container {
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    overflow: auto;
+    padding: 2% 0;
+    background-color: red;
+}
+
+.login_container_heading {
+    height: 200px;
+    border: 1px solid red;
+}
+
+.login_cashier_desk {
+    width: 120px
+}
+
+.heading_text {
+    font-family: 'Amsterdam';
+}
+
